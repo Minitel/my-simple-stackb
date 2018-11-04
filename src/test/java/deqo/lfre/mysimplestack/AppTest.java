@@ -27,4 +27,11 @@ public class AppTest
     		return 1;
     	}
     }
+    public int okok()
+    {
+        int ok = 1;
+        if (ok) {
+            return 1;
+        }
+    }
 }
