@@ -17,4 +17,14 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+
+
+    public int gestion_des_issues()
+    {
+    	int ok = 1;
+    	if (ok) {
+    		return 1;
+    	}
+    }
 }
